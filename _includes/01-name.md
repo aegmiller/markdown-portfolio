@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Amy G. Miller
+### Technical Writer and Training Professional
